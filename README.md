@@ -35,7 +35,6 @@ orientador Cassio Silva Takarada.
 | `documento_tcc/` | Briefing acadêmico do TCC (docx) |
 | [resumo.md](resumo.md) | O que é o SIM e como a Declaração de Óbito é estruturada, em linguagem acessível |
 | [dicionario_campos.md](dicionario_campos.md) | O que significa cada um dos campos que aparecem na base consolidada |
-| [CLAUDE.md](CLAUDE.md) | Contexto técnico detalhado do pipeline (para quem for mexer no código, humano ou IA) |
 
 ## Como começar
 
@@ -57,7 +56,6 @@ orientador Cassio Silva Takarada.
 - **Duplicidade em anos com dois arquivos.** Para alguns anos (ex. 2020, 2022) o download traz dois
   arquivos diferentes para o mesmo ano; depois do filtro por SP eles deveriam representar o mesmo
   conjunto de óbitos — precisa confirmar que não há duplicação antes de calcular qualquer estatística
-  (ver nota em [CLAUDE.md](CLAUDE.md#pontos-de-atenção-importantes-verificar-com-oa-orientadora--grupo)).
 - **Campos sem documentação oficial.** `CODMUNCART`, `CODCART`, `NUMREGCART`, `DTREGCART`, `CRM` e
   `EXPDIFDATA` aparecem na base mas não constam nos dicionários oficiais do SIM — provavelmente
   específicos das bases estaduais de SP (SEADE). Ver detalhes em
