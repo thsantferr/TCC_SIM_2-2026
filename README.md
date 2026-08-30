@@ -78,5 +78,3 @@ orientador Cassio Silva Takarada.
 ## Convenções
 
 - Idioma do projeto e da documentação: **português**.
-- Decisões de escopo definidas com o orientador devem ser registradas em [CLAUDE.md](CLAUDE.md) para
-  manter aquele arquivo como fonte de verdade técnica do projeto.
