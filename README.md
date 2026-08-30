@@ -30,7 +30,6 @@ orientador Cassio Silva Takarada.
 | Caminho | O que é |
 |---|---|
 | [analise_inicial.ipynb](analise_inicial.ipynb) | Notebook ativo — coleta os dados (via `pysus`), filtra para SP e consolida numa base única |
-| `arquivo/` | `.dbc` do SIM baixados manualmente (2015–2025) — **fonte legada**, não usada pelo notebook atual |
 | `documentacao/` | Dicionários oficiais do SIM/DATASUS, CID-10, legislação (PDFs e tabelas auxiliares em `.zip`) |
 | `tabelas_depara/` | Tabelas de-para prontas em CSV (municípios, estados, CID-10, países, ocupações) |
 | `documento_tcc/` | Briefing acadêmico do TCC (docx) |
