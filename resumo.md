@@ -23,9 +23,8 @@ documento que todo cartório exige para autorizar um sepultamento.
 Pasta `arquivo/`: 11 arquivos `.dbc` (DBF comprimido), um por ano, de **2015 a 2025**
 (`DOEXT15.dbc` … `DOEXT25.dbc`). Cada arquivo contém um registro por óbito daquele ano.
 
-> ⚠️ Ver [CLAUDE.md](CLAUDE.md) para os dois pontos em aberto: (1) a amostra de verificação sugere
-> que os dados cobrem **o Brasil todo**, não só SP; (2) faltam os anos 2000–2014 previstos no
-> escopo do TCC.
+> (1) a amostra de verificação sugere que os dados cobrem **o Brasil todo**, não só SP; 
+> (2) faltam os anos 2000–2014 previstos no escopo do TCC.
 
 `.dbc` não é um formato comum — é um `.dbf` (dBASE) comprimido com um algoritmo específico do
 DATASUS. Para abrir em Python, usa-se `pysus` ou `pyreaddbc` (já instalados no ambiente virtual do
