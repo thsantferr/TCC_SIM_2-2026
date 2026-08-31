@@ -20,7 +20,7 @@ documento que todo cartório exige para autorizar um sepultamento.
 
 ## 2. Os arquivos de dados deste projeto
 
-Pasta `arquivo/`: 11 arquivos `.dbc` (DBF comprimido), um por ano, de **2015 a 2025**
+Pasta `arquivo/`: 11 arquivos `.dbc` (DBF comprimido), um por ano, de **2000 a 2025**
 (`DOEXT15.dbc` … `DOEXT25.dbc`). Cada arquivo contém um registro por óbito daquele ano.
 
 > (1) a amostra de verificação sugere que os dados cobrem **o Brasil todo**, não só SP; 

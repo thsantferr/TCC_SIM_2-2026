@@ -12,3 +12,6 @@ document_tcc/
 # arquivo verifiaça de campos, arquio com amostras aleatorias
 verificacao_exemplos.csv
 *~*.*#
+
+#varaiveis corregadas a anteriormente para evitar retrabalho
+variavel/
