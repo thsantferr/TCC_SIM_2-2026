@@ -2,14 +2,13 @@
 .venv/
 
 #arquivos de config 
-CLAUDE.md
 *.zip
 .claude/
 
 # pasta com o texto inicial do tcc
 document_tcc/
 
-# arquivo verifiaça de campos, arquio com amostras aleatorias
+# arquivo verifiça de campos, arquio com amostras aleatorias
 verificacao_exemplos.csv
 *~*.*#
 
