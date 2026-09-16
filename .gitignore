@@ -1,16 +1,33 @@
-#arquivo de ambiente
+# Ambiente virtual
 .venv/
 
-#arquivos de config 
-*.zip
-.claude/
+# Variáveis de ambiente (chaves de API)
+.env
 
-# pasta com o texto inicial do tcc
-document_tcc/
-
-# arquivo verifiça de campos, arquio com amostras aleatorias
-verificacao_exemplos.csv
-*~*.*#
-
-#varaiveis corregadas a anteriormente para evitar retrabalho
+# Artefatos intermediários do pipeline (pkl, parquet)
 variavel/
+
+# Dados brutos legados (binários grandes)
+arquivo/
+
+# Briefing acadêmico do TCC
+documento_tcc/
+
+# Amostras geradas pelo notebook
+verificacao_exemplos.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos compactados
+*.zip
+
+# Temporários de editor
+*~
+*.tmp
+*~*.*#
